@@ -17,6 +17,7 @@ Here is a list of all of the things I had planned to cover before things got bus
 	* Polymorphism/Basic Class Structure
 	* Overloaded Methods and Flexibility
 	* Abstract Classes and Interfaces
+
 *Misc.
 	* Ruby: What It Is and Why It's Useful
 	* SQL and SQL Injection
